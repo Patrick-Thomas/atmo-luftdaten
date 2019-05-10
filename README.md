@@ -1,3 +1,3 @@
-# atmo-luftdaten
+# Readme
 
-![My image](https://raw.githubusercontent.com/Patrick-Thomas/atmo-luftdaten/images/scr1.png)
+![My image](images/hole1.jpg)
