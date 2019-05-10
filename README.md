@@ -7,5 +7,11 @@ The device does not have a power on/off switch, but instead wakes up periodicall
 ## Connecting to WiFi
 Before installing the device in situ, we recommend connecting it to your WiFi network first. Please ensure the WiFi network you are connecting to is also visible in the location where you intend to install the device, otherwise data will not be uploaded to the Luftdaten network. The steps to connect the device to WiFi are listed below:
 
+- On the bottom side of the device there is a small hole on the left side. Poke something small like a screwdriver  into the hole until you feel a 'click'. The device will now reset and start looking for available WiFi.
 
 ![My image](images/hole1.jpg)
+![My image](images/hole2.jpg)
+
+- Using a smartphone, search for available WiFi networks. Once you see
+
+![My image](images/scr1.png)
