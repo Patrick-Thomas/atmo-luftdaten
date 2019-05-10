@@ -9,8 +9,7 @@ Before installing the device in situ, we recommend connecting it to your WiFi ne
 
 - On the bottom side of the device there is a small hole on the left side. Poke something small like a screwdriver  into the hole until you feel a 'click'. The device will now reset and start looking for available WiFi.
 
-![My image](images/hole1.jpg)
-![My image](images/hole2.jpg)
+![My image](images/hole.png)
 
 - Using a smartphone, search for available WiFi networks. Once you see
 
